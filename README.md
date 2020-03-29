@@ -1,9 +1,6 @@
 # Offerup Project
 Buying and Selling used products
 
-
-Done By : Archana Sridhar, Kavya Lingannagari, Mounisha Kosana
-
 Technology Used:
 
 * PHP
@@ -19,14 +16,11 @@ Technology Used:
 Team Name: TexasState Hackers 
 
 Team Members: 
-      Archana Sridhar
-      Kavya Lingannagari 
-      Mounisha Kosoana
+      Archana Sridhar, Kavya Lingannagari, Mounisha Kosoana
       
 Team Usernames of DISCORD:
-      Archana[Hacker]
-      Kavya[Hacker]
-      Mounisha[Hacker]
+      Archana[Hacker], Kavya[Hacker], Mounisha[Hacker]
       
-Demo Video Link:
+Demo Video Link: https://youtu.be/ZuIXAo-if5E
+      
     
