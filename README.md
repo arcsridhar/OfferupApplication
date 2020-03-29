@@ -16,7 +16,7 @@ Technology Used:
 Team Name: TexasState Hackers 
 
 Team Members: 
-      Archana Sridhar, Kavya Lingannagari, Mounisha Kosoana
+      Archana Sridhar, Kavya Lingannagari, Mounisha Kosana
       
 Team Usernames of DISCORD:
       Archana[Hacker], Kavya[Hacker], Mounisha[Hacker]
