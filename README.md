@@ -1,4 +1,4 @@
-# OfferupApplication
+# Offerup Project
 Buying and Selling used products
 
 
