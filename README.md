@@ -3,15 +3,20 @@ Buying and Selling used products
 
 Technology Used:
 
-* PHP
-* JavaScript
-* MySQL
-* jQuery
-* Ajax
-* Bootstrap
-* HTML5
-* CSS3
+Front-End:
+	HTML5, CSS3
+	jQuery
+	AJAX
+	Bootstrap
 
+Back-End:
+	PHP, JavaScript
+
+Database:
+	MySQL
+
+Testing:
+	PHPUnit
 
 Team Name: Texas State Coders
 
