@@ -13,13 +13,13 @@ Technology Used:
 * CSS3
 
 
-Team Name: TexasState Hackers 
+Team Name: Texas State Coders
 
 Team Members: 
       Archana Sridhar, Kavya Lingannagari, Mounisha Kosana
       
 Team Usernames of DISCORD:
-      Archana[Hacker], Kavya[Hacker], Mounisha[Hacker]
+      Archana, Kavya, Mounisha
       
 Demo Video Link: https://youtu.be/ZuIXAo-if5E
 
